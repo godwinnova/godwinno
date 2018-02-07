@@ -8,6 +8,6 @@ int main(void) {
 	{
 		sum+=i;
 	}
-printf("%d",sum);	// your code goes here
+printf("%d",sum);	// your code will goes here
 	return 0;
 }
